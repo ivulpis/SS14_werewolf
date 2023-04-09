@@ -16,7 +16,7 @@
     layers:
     - map: [ "enum.DamageStateVisualLayers.Base" ]
       state: bear
-      sprite: EstacaoPirata/Mobs/Werewolf.yml
+      sprite: EstacaoPirata/Mobs/Werewolf.rsi
   - type: Fixtures
     fixtures:
     - shape:
