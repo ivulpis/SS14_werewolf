@@ -72,8 +72,9 @@
     angle: 0
     animation: WeaponArcClaw
     damage:
-      groups:
-       Brute: 30
+      types:
+        Brute: 10
+        Slash: 20
   - type: GhostTakeoverAvailable
     prob: 0.05
     name: werewolf
