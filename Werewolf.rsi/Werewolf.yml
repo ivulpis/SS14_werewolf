@@ -1,6 +1,6 @@
 ﻿- type: entity
   name: Werewolf
-  id: Werewolf
+  id: MobWerewolf
   parent: SimpleSpaceMobBase
   description: A wolf in two paws.
   components:
